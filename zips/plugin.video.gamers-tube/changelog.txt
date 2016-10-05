@@ -1,0 +1,8 @@
+1.1.1 - Changed name to Ares Gamers Tube
+      - Fixed Broken Links
+      - Added New menu item to show full list of Gamers Channels	
+
+Version 1 - Ares Project created Gamers Tube. Big Thanks to ColdKeys for his code.
+
+
+

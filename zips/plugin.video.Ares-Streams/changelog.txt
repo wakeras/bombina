@@ -1,0 +1,11 @@
+1.2.1 minor code change ready for ares-movies section
+1.2.0 - URLresolver issue sorted so hosted films now play using the url resolver addon - a big thanks to lambda for the URLResolver addon!!
+
+1.1.0 - changes made to not install our other addons (Dramanice, ZopTV & 123Movies)
+Version 1.0
+Ares - Streams was released
+
+
+
+We would like to thank all the developers who's code is used within our addon.
+
