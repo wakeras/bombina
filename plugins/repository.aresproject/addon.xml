@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.aresproject" name="AresProject" version="0.0.6" provider-name="Ares Team">
+<addon id="repository.aresproject" name="AresProject" version="0.0.7" provider-name="Ares Team">
 	<extension point="xbmc.addon.repository" name="Simple Kodi">
 		<info compressed="false">https://raw.githubusercontent.com/wakeras/bombina/master/plugins/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/wakeras/bombina/master/plugins/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/wakeras/bombina/tree/master/zips</datadir>
+		<datadir zip="true">https://github.com/wakeras/bombina/tree/master/zips</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>AresProject.</summary>
@@ -11,4 +11,3 @@
 		<platform>all</platform>
 	</extension>
 </addon>
-
