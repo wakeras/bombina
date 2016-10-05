@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.aresmagic"
+	name="[COLOR blue]A[/COLOR][COLOR white]res Magic[/COLOR]"
+	version="1.0.0"
+	provider-name="Shanks">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">A Collection of Magicians, Illusionists, and some great tutorials on how to perform your own magic.</summary>
+    <description lang="en">A Selection of Magic, Illusions, and more.. Hope you enjoy.. PoppaSmurf - Caret4ker - Automan  -  Shanks  -  Join us on the forum @ http://ares-project.uk</description>
+    <platform>all</platform>
+    <forum>n/a</forum>
+    <website>n/a</website>
+  </extension>
+</addon>

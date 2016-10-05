@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.AresQED"
+	   name="[COLOR blue]Ares[/COLOR][COLOR white]QED[/COLOR]"
+	   version="1.0.2"
+	   provider-name="2uk3y-Kodim-Ares">
+  <requires>
+    <import addon="script.module.requests" version="1.0.0" />
+	<import addon="plugin.video.f4mTester" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+			 library="qed.py">
+    	<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary></summary>
+    <description></description>
+    <platform>all</platform>
+  </extension>
+</addon>

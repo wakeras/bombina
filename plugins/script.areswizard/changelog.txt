@@ -1,0 +1,90 @@
+###########
+  v0.0.52:
+###########
+
+			fixed error when checking kodi version (during build installs)
+
+
+
+###########
+  v0.0.51:
+###########
+
+           tweaked android free space check (again)
+		   
+		   new update check source
+		   
+		   added function to convert physical path to special (Thanks to Ian Dickinson)
+		   
+		   added ability to add an extra line in wizard.txt to define required kodi version for each build (eg.. kodiver="17")
+		   
+		   updated cache tweak wizard to comply with kodi 17 changes
+		   
+		   tweaked force close routine (Thanks to Will Hofmann)
+
+
+###########
+  v0.0.50:
+###########
+
+           tweaked android free space check
+
+           added GoogleAnalytics
+		   
+		   changed expiration date on log uploads (now 2 days)
+
+
+
+###########
+  v0.0.49:
+###########
+
+          fixed log upload
+		  
+		  fixed log detection for "forks"
+
+          added commands for external use
+		  
+		  changed tiny.cc links to bit.ly links
+
+
+
+###########
+  v0.0.48:
+###########
+
+
+          disabled auto-qr code generation, seems IOS didn't like it.. reverted to pre-generated images
+		  
+		  improved code for opening web browsers
+
+
+###########
+  v0.0.47:
+###########
+
+
+          fixed build pin problem
+
+
+
+
+###########
+  v0.0.46:
+###########
+
+
+          tweaked startup routine to try fixing startup errors on apple devices
+		  
+          tweaked wizard listings to avoid errors with tinyurl.com
+		  
+          improved log detection routine
+		  
+          fixed repositories section
+		  
+          fixed log upload
+		  
+		  addressed issue with getting storage stats on newer android devices causing ares to fail to load at all (doh)
+		  
+
+

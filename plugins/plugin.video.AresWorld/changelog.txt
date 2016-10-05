@@ -1,0 +1,12 @@
+----------------------------
+Version 1.0.5----------------------------
+- Fixed VOD 
+- License GPL Version 2
+
+
+
+----------------------------
+Version 1.0.0
+----------------------------
+- Initial release
+- License GPL Version 2

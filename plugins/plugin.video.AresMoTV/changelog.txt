@@ -1,0 +1,113 @@
+[COLOR FF00FFFF]NOTE: Please visit [COLOR orange]https://ares-project.uk[/COLOR] for support and assistance.[/COLOR]
+
+[COLOR yellow][B]6.0[/B]
+- Major change[/COLOR]
+
+5.2
+- Fix some section with empty list
+- Fix empty stream list
+- Set default View list to Thumbnail
+
+5.1
+- Fix empty stream list
+
+5.0
+- Major changes : code completely create from scratch
+- Remove some features
+- My Favorites list will be empty (this version only)
+- Settings will be reset (this version only)
+- Add changelog prompt when addon updated
+- Option to set View for movies / tv-series in Settings
+- Fanart grab from themoviedb.org
+- Change background
+- Added playback resume from last stopped
+
+3.9
+- Fix empty stream list again
+
+3.8
+- Fix stream list again
+
+3.7
+- Fix empty stream list
+
+3.6
+- Change stream server
+
+3.5
+- Minor fix : Fix empty tv series list
+- Minor fix : Fix empty stream list 
+
+3.4
+- Minor fix : Fix empty stream list 
+
+3.3
+- Minor fix : TV Shows stream server play wrong episode
+
+3.2
+- Fix error when get episode list (source changed)
+
+3.1
+- Fix empty list for stream (source changed)
+
+3.0
+- Change name to AresMoTV (Settings Add-on reset)
+- New icon, new fanart
+- Fix broken stream list for Movies (source changed)
+- Fix broken episodes/stream list for TV Shows (source changed)
+
+2.0
+- Fix broken My Favourites list if Metadata disable in Add-on Settings
+- Fix empty movie/tvshows list if Next Page
+- Remove Next Page if reach last page
+- Remove Year in title if MetaData disable
+- Code cleanup
+
+1.9
+- Add-on Settings now available
+   - enable / disable Metadata (list load faster if disable)
+   - enable / disable English Subtitle (if available)
+   - set Auto View value (default is 502)
+   - more to come...
+
+1.8
+- Fix some Genre not show list due to metadata not found
+- Code cleanup
+
+1.7
+- Fix tvshows not showing episodes list page
+- Code cleanup
+
+1.6
+- Fix movie and tvshows stream list empty (source changed)
+
+1.5
+- Revert back to version 1.1
+
+1.4
+- Fix tv shows stream list empty
+
+1.3
+- Fix some tv shows not show episode list correctly
+
+1.2
+- Add "Add to Favourites" menu and submenu
+- Add context menu : "Movie / TV Series Information"
+- Add context menu : "Add to Favourites" / "Delete from Favourite"
+- Add context menu : "Add to Library" (beta)
+- Auto enable English subtitle if available
+- Fix bug
+- Code cleanup
+
+1.1
+- Fix video title for easy search subtitle
+- Add thumbnail for player
+- Update Fanart
+- Add metadata for Movie / Tv Series
+- Add "Requested" menu
+- Fix bug
+
+1.0
+- Initial version
+- Addon is based on Dramaonline Addon authored by Aresu
+- License GPL Version 2

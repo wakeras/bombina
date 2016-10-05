@@ -1,0 +1,11 @@
+Version 1.0
+Added the ability to add to favourites and view favourites from the main menu.
+Enable the ability to download files.
+
+Version 0.1
+AresIndexer was released
+
+
+
+We would like to thank all the developers who's code is used within our addon.
+

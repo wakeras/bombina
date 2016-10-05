@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.aresrelaxation"
+	name="[COLOR blue]A[/COLOR][COLOR white]res Relaxation[/COLOR]"
+	version="1.0.0"
+	provider-name="Shanks">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">A collection of relaxation, meditation, yoga videos as well as some relaxing music playlists</summary>
+    <description lang="en">A Selection of playlists with meditation, yoga, and music .. Hope you enjoy.. PoppaSmurf - Caret4ker - Automan  -  Shanks  -  Join us on the forum @ http://ares-project.uk</description>
+    <platform>all</platform>
+    <forum>http://ares-project.uk</forum>
+    <website>n/a</website>
+  </extension>
+</addon>

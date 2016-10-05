@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.AresWorld"
+	   name="[COLORblue]A[/COLOR][COLORwhite]res World[/COLOR]"
+	   version="1.0.9"
+	   provider-name="2uk3y-Kodim-Ares">
+  <requires>
+    <import addon="script.module.requests" version="1.0.0" />
+	<import addon="plugin.video.f4mTester" />
+	<import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.video.F4mProxy" version="2.2.3"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+			 library="aw.py">
+    	<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary></summary>
+    <description></description>
+    <platform>all</platform>
+  </extension>
+</addon>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.aresfitness"
+	name="[COLOR blue]A[/COLOR][COLOR white]res Fitness[/COLOR]"
+	version="1.0.1"
+	provider-name="Shanks">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">A Collection of Stretches, Exercises, Fitness Videos, and More</summary>
+    <description lang="en">A seleection of videos on pre-workout stretching, exercises, videos from Fitness experts and more .. Hope you enjoy.. PoppaSmurf - Caret4ker - Automan  -  Shanks  -  Join us on the forum @ http://ares-project.uk</description>
+    <platform>all</platform>
+    <forum>http://ares-project.uk</forum>
+    <website>n/a</website>
+  </extension>
+</addon>
